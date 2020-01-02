@@ -4,8 +4,8 @@ package app.memento;
  * Memento
  */
 public class Memento {
-    private int atk; // 攻击力
-    private int hp; // 攻击力
+    private int atk;
+    private int hp;
     public Memento(int atk, int hp){
         this.atk = atk;
         this.hp = hp;
