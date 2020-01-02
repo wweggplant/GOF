@@ -4,7 +4,6 @@ package app.memento;
  * Context
  */
 public class Context {
-
     public static void main(String[] args) {
         GameMan man = new GameMan(100, 100);
         CreateMemento cm = new CreateMemento();
