@@ -4,7 +4,6 @@ package app.Mediator;
  * Context
  */
 public class Context {
-
     public static void main(String[] args) {
         UNmediator un = new UNmediator();
         USCountry us = new USCountry(un);
